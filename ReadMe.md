@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Kasaiklang</h1>
-<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner | 🛠️ System & Project & Game Modifier</h3>
+<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |r</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UndiedPerson&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson" />
@@ -9,8 +9,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **personal full-stack & security-related & modified projects**  
+- 🔭 I’m currently working on **personal full-stack & security-related projects**  
 - 📫 Reach me at: **undiedperson@gmail.com**
+- So I move to use this account Because I lost Authenication form my old : UndiedPerson
 
 ---
 
