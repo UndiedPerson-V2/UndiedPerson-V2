@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Kasaiklang</h1>
-<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |r</h3>
+<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UndiedPerson&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson" />
@@ -42,7 +42,7 @@
 ## 🏆 GitHub Trophy
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src = "https://github-profile-trophy.vercel.app/?username=UndiedPerson&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy" />
+<img src = "https://github-profile-trophy.vercel.app/?username=UndiedPerson-V2&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy" />
 <br/>
 </p>
 
