@@ -42,7 +42,7 @@
 ## 🏆 GitHub Trophy
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src = "https://github-profile-trophy.vercel.app/?username=UndiedPerson&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy" />
+<img src = "https://github-profile-trophy.vercel.app/?username=UndiedPerson-V2&theme=gruvbox&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy" />
 <br/>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedPerson&layout=compact&theme=gruvbox"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedPerson-V2&layout=compact&theme=gruvbox"/>
 </p>
 
 ---
