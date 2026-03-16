@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Kasaiklang</h1>
-<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |</h3>
+<h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |AI Project Dev(Currently)|</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UndiedPerson-V2&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson-V2" />
