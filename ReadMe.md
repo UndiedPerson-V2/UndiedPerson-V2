@@ -2,7 +2,7 @@
 <h3 align="center">🔧 Back-End & Full Stack Dev (Practice) | 🛡️ Cyber Security Learner |</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UndiedPerson&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson" />
+  <img src="https://komarev.com/ghpvc/?username=UndiedPerson-V2&label=Profile%20views&color=0e75b6&style=flat" alt="UndiedPerson-V2" />
 </p>
 
 ---
