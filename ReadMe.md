@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndiedPerson&theme=radical" alt="streak-stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UndiedPerson-V2&theme=radical" alt="streak-stats"/>
   
 </p>
 
